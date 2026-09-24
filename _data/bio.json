@@ -1,12 +1,10 @@
 {
   "basics": {
     "name": "Josh Hicks",
-    "label": "Student",
     "picture": "https://avatars.githubusercontent.com/u/157097004?v=4",
     "email": "hicksj4@hawaii.edu",
-    "phone": "808-333-4444",
     "website": "https://hicksj4.github.io/",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "summary": "Computer Science graduate with a B.S. from the University of Hawaiʻi at Mānoa.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "hicksj4", "url": "http://github.com/hicksj4" },
@@ -15,8 +13,8 @@
   },
   "interests": [
     { "name": "Game Development" },
-    { "name": "Machine Learning" },
-    { "name": "Market Analytics" },
+    { "name": "Software Development" },
+    { "name": "Data Analytics" },
     { "name": "Computer Graphics" }
   ],
   "skills": [
