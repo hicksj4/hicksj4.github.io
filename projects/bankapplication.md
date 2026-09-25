@@ -4,7 +4,7 @@ type: project
 image: img/database_2.jpg
 title: "Bank Database Application"
 date: 2024
-published: true
+published: false
 labels:
   - C
   - Database
