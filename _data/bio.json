@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Joshua Hicks",
+    "name": "Josh Hicks",
     "picture": "https://avatars.githubusercontent.com/u/157097004?v=4",
     "email": "hicksj4@hawaii.edu",
     "website": "https://hicksj4.github.io/",
@@ -8,31 +8,30 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "hicksj4", "url": "http://github.com/hicksj4" },
-      { "network": "linkedin", "username": "josh-hicks-7778212a9", "url": "https://www.linkedin.com/in/josh-hicks-7778212a9/" }
+      { "network": "linkedin", "username": "hicksjosh19", "url": "https://www.linkedin.com/in/hicksjosh19/" }
     ]
   },
   "interests": [
-    { "name": "Game Development" },
     { "name": "Software Development" },
     { "name": "Data Analytics" },
+    { "name": "Game Development" },
     { "name": "Computer Graphics" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C#", "C", "Java", "Python" ]
+      "keywords": [ "C#", "SQL", "Java", "Python", "HTML/CSS", "Typescript/Javascript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows", "Ubuntu", "Git/GitHub", "MacOS" ]
+      "keywords": [ "Windows", "Linux", "Git/GitHub", "Microsoft Office Suite", "pgAdmin", "Visual Studio" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2025)",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2021-09-01",
       "courses": ["ICS 311 Algorithms"]
     }
   ],
